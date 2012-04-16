@@ -15,5 +15,5 @@ Then to sync up:
 
     repo sync
 
-Please see the [MTDEV](http://mtdev.us/build-cm7/) for full building instructions on the Motorola Triumph
+Please see the [MTDEV](http://mtdev.us/build-cm7/) for full building instructions using the Motorola Triumph
 
