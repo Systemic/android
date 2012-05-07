@@ -71,7 +71,7 @@
   <project path="external/icu4c" name="CyanogenMod/android_external_icu4c" />
   <project path="external/iproute2" name="CyanogenMod/android_external_iproute2" />
   <project path="external/ipsec-tools" name="CyanogenMod/android_external_ipsec-tools" />
-  <project path="external/iptables" name="mantera/android_external_iptables" />
+  <project path="external/iptables" name="g60madman/android_external_iptables" />
   <project path="external/jdiff" name="CyanogenMod/android_external_jdiff" />
   <project path="external/jhead" name="CyanogenMod/android_external_jhead" />
   <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" />
@@ -135,9 +135,9 @@
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
   <project path="hardware/gpsshim" name="CyanogenMod/android_hardware_gpsshim" />
   <project path="hardware/libhardware" name="g60madman/android_hardware_libhardware" />
-  <project path="hardware/libhardware_legacy" name="mantera/android_hardware_libhardware_legacy" />
+  <project path="hardware/libhardware_legacy" name="g60madman/android_hardware_libhardware_legacy" />
   <project path="hardware/msm7k" name="g60madman/android_hardware_msm7k" />
-  <project path="hardware/qcom/gps" name="mantera/android_hardware_qcom_gps" />
+  <project path="hardware/qcom/gps" name="g60madman/android_hardware_qcom_gps" />
   <project path="hardware/qcom/media" name="CyanogenMod/android_hardware_qcom_media" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" />
@@ -157,7 +157,7 @@
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" />
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
-  <project path="packages/apps/Camera" name="mantera/android_packages_apps_Camera" />
+  <project path="packages/apps/Camera" name="g60madman/android_packages_apps_Camera" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMParts" name="CyanogenMod/android_packages_apps_CMParts" />
   <project path="packages/apps/CMScreenshot" name="CyanogenMod/android_packages_apps_CMScreenshot" />
@@ -213,10 +213,10 @@
   <project path="prebuilt" name="CyanogenMod/android_prebuilt" />
   <project path="sdk" name="CyanogenMod/android_sdk" revision="tools_r7" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
-  <project path="system/core" name="mantera/android_system_core" />
+  <project path="system/core" name="g60madman/android_system_core" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
-  <project path="system/netd" name="mantera/android_system_netd" />
+  <project path="system/netd" name="g60madman/android_system_netd" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" />
